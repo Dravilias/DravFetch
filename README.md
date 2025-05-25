@@ -6,6 +6,15 @@ to be honest its just nitch
 
 ---
 
+## 🧩 Dependencies
+
+- `bash`
+- `figlet`
+- A Nerd Font installed and configured in your terminal (e.g., [Nerd Fonts](https://www.nerdfonts.com/))
+
+---
+
+
 ## ✨ Features
 
 - 🎨 Distro-colored ASCII art via `figlet`
@@ -15,9 +24,8 @@ to be honest its just nitch
 
 ## 📸 Preview
 
-```bash
-$ dravfetch
-```
+![DravFetch Preview](preview.png)
+
 ---
 
 ## 🚀 Installation
