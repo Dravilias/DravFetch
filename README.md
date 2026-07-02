@@ -1,12 +1,12 @@
 
-# 🖥️ DravFetch
+# DravFetch
 
 **DravFetch** is a stylish, minimal fetch tool for Linux written in Bash. It shows your system info in a clean, colorized box with distro-colored ASCII art
 to be honest its just nitch
 
 ---
 
-## 🧩 Dependencies
+##  Dependencies
 
 - `bash`
 - `figlet`
@@ -15,22 +15,22 @@ to be honest its just nitch
 ---
 
 
-## ✨ Features
+##  Features
 
-- 🎨 Distro-colored ASCII art via `figlet`
-- 🧑 User, 🐧 Distro, 🧬 Kernel, ⏱️ Uptime, 🖥️ Shell, and 🧠 Memory info
-- 🌈 Color preview line
-- 📦 Lightweight (pure Bash + figlet)
+-  Distro-colored ASCII art via `figlet`
+-  User, Distro, Kernel, Uptime. Shell, and Memory info
+-  Color preview line
+-  Lightweight (pure Bash + figlet)
 
-## 📸 Preview
+##  Preview
 
 ![DravFetch Preview](preview.png)
 
 ---
 
-## 🚀 Installation
+##  Installation
 
-### ✅ Quick Install
+###  Quick Install
 
 Paste this in your terminal:
 
